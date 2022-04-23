@@ -22,3 +22,11 @@ img {
   width: 350px;
   float: left;
 }
+li {
+  float: right;
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
