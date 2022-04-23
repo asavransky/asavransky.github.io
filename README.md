@@ -13,3 +13,4 @@ I was able to upload an image!! however its wayyy too big at the moment and i wa
 
 ## sub-pages
 https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/multi-page-html-sites
+i used this reference to help figure out how to add multiple pages to the site, it does a really good job of breaking down how to organize different pages.
