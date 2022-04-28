@@ -35,6 +35,8 @@ I have .html for the external pages !! do i need separate folders with their own
 
 ## organization
 bro fuck organizing this LMAOOO why is it so difficult??? ur telling me that now bc i put everything in folders it's all gotta have new paths!!! rookie mistake on my end. i should've embraced the chaos.
+*i got rid of the folders. chaos it is.*
+
 
 ## sub-pages
 https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/multi-page-html-sites
