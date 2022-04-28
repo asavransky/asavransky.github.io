@@ -11,6 +11,12 @@ CSS formatting is a bit of an issue. I'm not sure if my actual css file is worki
 Image:
 I was able to upload an image!! however its wayyy too big at the moment and i want it to sit pretty small on the left hand side and have the text on the right. I think this goes hand and hand with the CSS file mentioned above.
 
+Layout:
+So i went through the CSS reference i'm using and adjusted some of the layout, but i cant quite get things to sit where i want and my CSS file is starting to get confusing and very disorganized. need to come back to that with a better method of organization
+
+CSS files and external pages:
+I have .html for the external pages !! do i need separate folders with their own index.html files in them??
+
 ## sub-pages
 https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/multi-page-html-sites
 i used this reference to help figure out how to add multiple pages to the site, it does a really good job of breaking down how to organize different pages.
