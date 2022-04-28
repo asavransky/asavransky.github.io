@@ -1,5 +1,5 @@
 # TLDR;
-damn this was a bitch to make. lots of thoughtless and redundant errors. 
+damn this was a bitch to make. lots of thoughtless and redundant errors.
 
 # Site Building Process
 my initial attempt to get information on the site was incredibly tragic,
@@ -33,6 +33,8 @@ CSS files and external pages:
 I have .html for the external pages !! do i need separate folders with their own index.html files in them??
 **update - literally just a typo error. had an extra html note in the code lol**
 
+## organization
+bro fuck organizing this LMAOOO why is it so difficult??? ur telling me that now bc i put everything in folders it's all gotta have new paths!!! rookie mistake on my end. i should've embraced the chaos.
 
 ## sub-pages
 https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/multi-page-html-sites
