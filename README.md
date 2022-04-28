@@ -24,6 +24,8 @@ After fixing the external pages issue I am now having layout issues!! sooo slayy
 i'm not really sure how that happened but I think im gonna have to go through the style.css and reorganize. I
 don't really remember what is what and thats a big oopsie on my behalf lol.
 
+Maybe some of my layout issues are on behalf of the fact that there's quite literally no rhyme or reason to the way that i'm inputting stuff? like its all just in there chaotically 
+
 CSS files and external pages:
 I have .html for the external pages !! do i need separate folders with their own index.html files in them??
 **update - literally just a typo error. had an extra html note in the code lol**
