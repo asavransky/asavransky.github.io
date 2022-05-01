@@ -39,6 +39,7 @@ h1 {
 .column {
   float: left;
   width: 50%;
+  padding: inherit;
 }
 /* Clear floats after the columns */
 .row:after {

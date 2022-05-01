@@ -40,14 +40,12 @@ img[src*="icon.JPG"]{
 }
 /*ABOUT PAGE LAYOUT*/
 /* Create three equal columns that float next to each other */
-.leftcolumn {
+.column {
   float: left;
   width: 50%;
+  padding: 15px;
 }
-.rightcolumn {
-  float: right;
-  width: 50%;
-}
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
