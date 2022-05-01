@@ -13,12 +13,7 @@ img[src*="icon.JPG"]{
   width: 350px;
   float: left;
 }
-img[src*="freshman.jpeg"]{
-  display: block;
-  height: 200px
-  width: 300px
-  float: left;
-}
+
 /*Nav bar for about page*/
 /* The navbar container */
 .topnav {
