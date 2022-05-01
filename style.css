@@ -3,9 +3,11 @@ body {
 }
 /*page header*/
 h1 {
-    font-family: "Verdana", sans-serif;
-    color: black;
-    text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  background: black;
 }
 /*Nav bar for home page*/
 /* The navbar container */
