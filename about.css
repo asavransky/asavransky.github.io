@@ -9,16 +9,12 @@ h1 {
 /*image organization*/
 img[src*="icon.JPG"]{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   height: 500px;
   width: 300px;
   float: left;
 }
 img[src*="freshman.jpeg"]{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   height: 300px
   width: 500px
   float: left;
