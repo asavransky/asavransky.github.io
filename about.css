@@ -42,11 +42,11 @@ img[src*="icon.JPG"]{
 /* Create three equal columns that float next to each other */
 .leftcolumn {
   float: left;
-  width: 40%;
+  width: 50%;
 }
 .rightcolumn {
   float: right;
-  width: 60%;
+  width: 50%;
 }
 /* Clear floats after the columns */
 .row:after {
