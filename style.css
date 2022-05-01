@@ -35,7 +35,10 @@ h1 {
   float: left;
   width: 50%;
 }
-
+.column {
+  float: right;
+  width: 50%;
+}
 /*card for information*/
 .card {
   background-color: white;
