@@ -31,11 +31,11 @@ h1 {
 }
 /*ABOUT PAGE LAYOUT*/
 /* Create two equal columns that float next to each other */
-.column {
+.leftcolumn {
   float: left;
   width: 50%;
 }
-.column {
+.rightcolumn {
   float: right;
   width: 50%;
 }
