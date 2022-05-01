@@ -45,7 +45,6 @@ img[src*="icon.JPG"]{
 .rightcolumn {
   float: right;
   width: 60%;
-  background-color: #f1f1f1;
 }
 /* Clear floats after the columns */
 .row:after {
