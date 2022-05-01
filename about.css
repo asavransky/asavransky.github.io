@@ -40,11 +40,11 @@ img[src*="icon.JPG"]{
 /* Create three equal columns that float next to each other */
 .leftcolumn {
   float: left;
-  width: 50%;
+  width: 40%;
 }
 .rightcolumn {
   float: right;
-  width: 50%;
+  width: 60%;
   background-color: #f1f1f1;
 }
 /* Clear floats after the columns */
@@ -67,25 +67,5 @@ p {
   width: 800px;
   margin: 0 auto;
   text-align: left;
-}
-p2 {
-  font-family: "Verdana", sans-serif;
-  font-size: 20px;
-  width: 800px;
-  margin: 0 auto;
-  text-align: left;
-}
-p3 {
-  font-family: "Verdana", sans-serif;
-  font-size: 20px;
-  width: 800px;
-  margin: 0 auto;
-  text-align: left;
-}
-p4 {
-  font-family: "Verdana", sans-serif;
-  font-size: 20px;
-  width: 800px;
-  margin: 0 auto;
-  text-align: left;
+  word-break: normal;
 }
