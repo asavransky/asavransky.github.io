@@ -29,14 +29,18 @@ don't really remember what is what and thats a big oopsie on my behalf lol.
 - Maybe some of my layout issues are on behalf of the fact that there's quite literally no rhyme or reason to the way that i'm inputting stuff? like its all just in there chaotically
 - now that i have the audio and some info related to the audio on the site i realize that im gonna need the images/
 the text in columns so that they can exist side by side.
+- you know. I finally got the website looking pretty nice and then BOOM, i got cocky and am back at square one with the layout. this is so annoying i could scream.
+- the columns are literally causing so many problems. if something is specified as left column, then why is it being put onto the right/!!?!??!??!? like make it make sense??? also, the padding for it got all shitty and weird. i feel like i got soooo much done just for this to happen, i think now is a good time to take a break :)
 
 **CSS files and external pages:**
 - I have .html for the external pages !! do i need separate folders with their own index.html files in them??
 - **update - literally just a typo error. had an extra html note in the code lol**
+- ok so i started working on the about me and the css for that as well. I'm using this as the test page before really messing with the layout of the home page so that I can get kind of a clear idea as to what i'm trying to do. right now i'm trying to make columns for my written info and so my images can sit next to it. I also need the navigation bar at the top so there's consistency with the site and so that you can freely navigate through the pages.
 
 ## organization
-bro fuck organizing this LMAOOO why is it so difficult??? ur telling me that now bc i put everything in folders it's all gotta have new paths!!! rookie mistake on my end. i should've embraced the chaos.
-*i got rid of the folders. chaos it is.*
+- bro fuck organizing this LMAOOO why is it so difficult??? ur telling me that now bc i put everything in folders it's all gotta have new paths!!! rookie mistake on my end. i should've embraced the chaos.
+- *i got rid of the folders. chaos it is.*
+- i'm realizing that my css for the index is soooo awful. i have no idea what is what. i'm probably just going to use the about css as a template for it since it's much more organized and then make adjustments to fit the home page.
 
 
 ## sub-pages
@@ -45,4 +49,4 @@ i used this reference to help figure out how to add multiple pages to the site, 
 
 ## references used
 - https://www.w3schools.com/css/default.asp literally all of this. i couldn't have done anything without this
-- https://www.w3schools.com/html/default.asp and this. life savers. 
+- https://www.w3schools.com/html/default.asp and this. life savers.
