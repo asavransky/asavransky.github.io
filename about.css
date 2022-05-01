@@ -52,7 +52,11 @@ img[src*="icon.JPG"]{
   display: table;
   clear: both;
 }
-
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other on smaller screens (600px wide or less) */
 @media screen and (max-width: 600px) {
   .column {
