@@ -15,8 +15,8 @@ img[src*="icon.JPG"]{
 }
 img[src*="freshman.jpeg"]{
   display: block;
-  height: 300px
-  width: 500px
+  height: 200px
+  width: 300px
   float: left;
 }
 /*Nav bar for about page*/
