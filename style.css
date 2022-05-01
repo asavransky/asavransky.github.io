@@ -34,20 +34,20 @@ h1 {
   background-color: #ddd;
   color: black;
 }
-/*ABOUT PAGE LAYOUT*/
-/* Create two equal columns that float next to each other */
+/*home PAGE LAYOUT*/
+/* Create three equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
-  padding: inherit;
+  padding: 15px;
 }
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
 }
-
 /*card for information*/
 .card {
   background-color: white;
