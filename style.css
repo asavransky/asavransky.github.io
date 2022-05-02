@@ -66,6 +66,6 @@ p {
 }
 img[src*="self-nyc.jpg"]{
   display: block;
-  height: 200px;
-  width: 150px;
+  height: 300px;
+  width: 250px;
 }
