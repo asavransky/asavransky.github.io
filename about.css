@@ -9,15 +9,6 @@ h1 {
   padding: 30px;
   background: black;
 }
-/*image organization*/
-img[src*="self-nyc.jpg"]{
-  display: block;
-  height: 700px;
-  width: 550px;
-  margin-top: 20 auto;
-  float: center;
-  border: 10px solid white;
-}
 
 /*Nav bar for about page*/
 /* The navbar container */
@@ -76,4 +67,14 @@ p {
   margin: 0 auto;
   text-align: left;
   word-break: keep-all;
+}
+
+/*image organization*/
+img[src*="self-nyc.jpg"]{
+  display: block;
+  height: 700px;
+  width: 550px;
+  margin-top: 20 auto;
+  float: leftcolumn;
+  border: 10px solid white;
 }
