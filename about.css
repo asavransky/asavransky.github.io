@@ -37,7 +37,7 @@ h1 {
 }
 /*ABOUT PAGE LAYOUT*/
 /* Middle column */
-.column {
+.centercolumn {
   width: 100%;
 }
 /* Clear floats after the columns */
