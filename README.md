@@ -59,6 +59,7 @@ the text in columns so that they can exist side by side.
 - bro fuck organizing this LMAOOO why is it so difficult??? ur telling me that now bc i put everything in folders it's all gotta have new paths!!! rookie mistake on my end. i should've embraced the chaos.
 - *i got rid of the folders. chaos it is.*
 - i'm realizing that my css for the index is soooo awful. i have no idea what is what. i'm probably just going to use the about css as a template for it since it's much more organized and then make adjustments to fit the home page.
+- I ended up just doing some cleanup, getting rid of things I initially didn't label and redoing it. Even though it was tedious, it was the best decision in the long run since it was a refresher to what I was actually adding, and it gave me the opportunity to put in little notes to remind me of what each section was for.
 - this isn't an organization issue but just a complaint, why is html so hard on the eyes? I've missed so many little mistakes simply because it's just hard to look at for an extensive period of time.
 
 # FINAL THOUGHTS AND OVERVIEW
