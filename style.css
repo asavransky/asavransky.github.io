@@ -36,12 +36,15 @@ h1 {
 }
 /*home PAGE LAYOUT*/
 /* Create three equal columns that floats next to each other */
-.column {
+.leftcolumn {
   float: left;
   width: 50%;
-  padding: 15px;
 }
-
+.rightcolumn {
+  float: left;
+  width: 50%;
+  padding: 20px;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
