@@ -74,3 +74,9 @@ img[src*="self-nyc.jpg"]{
   width: 550px;
   border: 10px solid white;
 }
+img[src*="slayyy.png"]{
+  display: block;
+  height: 700px;
+  width: 550px;
+  border: 10px solid white;
+}
