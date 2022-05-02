@@ -1,6 +1,8 @@
 body {
   background-color: #f1f1f1;
-  margin: 0;
+  background-image: url("site-background.jpg");
+  background-repeat: repeat-y;
+  background-attachment: fixed;
 }
 h1 {
   font-family: "Verdana", sans-serif;
