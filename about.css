@@ -46,9 +46,8 @@ img[src*="icon.JPG"]{
   width: 50%;
 }
 .rightcolumn{
-  float: left;
+  float: right;
   width: 50%;
-  padding: 20px;
 }
 /* Clear floats after the columns */
 .row:after {
