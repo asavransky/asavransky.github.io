@@ -12,8 +12,11 @@ h1 {
 /*image organization*/
 img[src*="self-nyc.jpg"]{
   display: block;
-  height: 500px;
-  width: 350px;
+  height: 700px;
+  width: 550px;
+  margin-top: 20 auto;
+  float: center;
+  border: 10px solid white;
 }
 
 /*Nav bar for about page*/
