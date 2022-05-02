@@ -72,7 +72,5 @@ img[src*="self-nyc.jpg"]{
   display: block;
   height: 700px;
   width: 550px;
-  margin-top: 20;
-  float: center;
   border: 10px solid white;
 }

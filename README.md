@@ -15,6 +15,8 @@ the plan is to have a few different pages that you can switch between. One about
 
 **Images:**
 - I was able to upload an image!! however its wayyy too big at the moment and i want it to sit pretty small on the left hand side and have the text on the right. I think this goes hand and hand with the CSS file mentioned above.
+- WHY WONT THIS PICTURE FLOAT CENTER !!!! LIKE>?? the code is literally telling it what to do and the image is literally just deciding to do its own thing. like thats really rude???? like just center yourself???
+- i think i need another break :)
 
 **Audio:**
 - Ok so i was able to add one audio source/mp3 to the page which is iconic, however i'm trying to get two or more on
@@ -34,6 +36,7 @@ the text in columns so that they can exist side by side.
 - I feel like i have been going in circles for hours to try and get things to literally just sit side by side from one another and it simply is not working the way that i want to. it's a littttleeee frustrating that I can't get it despite going through things a million times but whatever.
 - ok. I took a much needed break. I feel like its finally starting to look the way that i want it to but im not sure what changed that all of the sudden everything is working. i feel like im getting the hang of how it needs to be set up but i dont want to be too sure???
 - rather than making a bunch of big changes all at once and pushing them, i am quite literally making one or two adjustments at a time and then pushing it to make sure i dont fuck it up lmaoooo.
+- this is literally so tedious. i keep making the smallest teeniest mistakes
 
 **CSS files and external pages:**
 - I have .html for the external pages !! do i need separate folders with their own index.html files in them??
