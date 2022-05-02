@@ -31,11 +31,15 @@ don't really remember what is what and thats a big oopsie on my behalf lol.
 the text in columns so that they can exist side by side.
 - you know. I finally got the website looking pretty nice and then BOOM, i got cocky and am back at square one with the layout. this is so annoying i could scream.
 - the columns are literally causing so many problems. if something is specified as left column, then why is it being put onto the right/!!?!??!??!? like make it make sense??? also, the padding for it got all shitty and weird. i feel like i got soooo much done just for this to happen, i think now is a good time to take a break :)
+- I feel like i have been going in circles for hours to try and get things to literally just sit side by side from one another and it simply is not working the way that i want to. it's a littttleeee frustrating that I can't get it despite going through things a million times but whatever.
+- ok. I took a much needed break. I feel like its finally starting to look the way that i want it to but im not sure what changed that all of the sudden everything is working. i feel like im getting the hang of how it needs to be set up but i dont want to be too sure???
+- rather than making a bunch of big changes all at once and pushing them, i am quite literally making one or two adjustments at a time and then pushing it to make sure i dont fuck it up lmaoooo.
 
 **CSS files and external pages:**
 - I have .html for the external pages !! do i need separate folders with their own index.html files in them??
 - **update - literally just a typo error. had an extra html note in the code lol**
 - ok so i started working on the about me and the css for that as well. I'm using this as the test page before really messing with the layout of the home page so that I can get kind of a clear idea as to what i'm trying to do. right now i'm trying to make columns for my written info and so my images can sit next to it. I also need the navigation bar at the top so there's consistency with the site and so that you can freely navigate through the pages.
+- i was able to get the contact page fairly easily with the help of one of my references
 
 ## organization
 - bro fuck organizing this LMAOOO why is it so difficult??? ur telling me that now bc i put everything in folders it's all gotta have new paths!!! rookie mistake on my end. i should've embraced the chaos.
