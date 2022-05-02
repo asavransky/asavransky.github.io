@@ -20,7 +20,7 @@ img[src*="icon.JPG"]{
 /* The navbar container */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: black;
 }
 
 /* Navbar links */
