@@ -75,4 +75,5 @@ img[src*="icon.JPG"]{
   height: 700px;
   width: 550px;
   margin-left: 0 auto;
+  float: right;
 }
