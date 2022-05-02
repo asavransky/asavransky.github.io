@@ -69,3 +69,8 @@ img[src*="self-nyc.jpg"]{
   height: 500px;
   width: 350px;
 }
+img[src*="icon.JPG"]{
+  display: block;
+  height: 500px;
+  width: 350px;
+}
