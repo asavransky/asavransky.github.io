@@ -21,7 +21,7 @@ img[src*="icon.JPG"]{
 /* The navbar container */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: black;
 }
 
 /* Navbar links */
@@ -41,12 +41,15 @@ img[src*="icon.JPG"]{
 }
 /*ABOUT PAGE LAYOUT*/
 /* Create three equal columns that float next to each other */
-.column {
+.leftcolumn {
   float: left;
   width: 50%;
-  padding: 15px;
 }
-
+.rightcolumn{
+  float: left;
+  width: 50%;
+  padding: 20px;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
