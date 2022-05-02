@@ -36,13 +36,8 @@ h1 {
   color: black;
 }
 /*ABOUT PAGE LAYOUT*/
-/* Create three equal columns that float next to each other */
-.leftcolumn {
-  float: left;
-  width: 50%;
-}
-.rightcolumn{
-  float: right;
+/* Middle column */
+.column.middle {
   width: 50%;
 }
 /* Clear floats after the columns */
@@ -78,6 +73,6 @@ img[src*="self-nyc.jpg"]{
   height: 700px;
   width: 550px;
   margin-top: 20 auto;
-  float: leftcolumn;
+  float: center;
   border: 10px solid white;
 }
