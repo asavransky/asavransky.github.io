@@ -10,7 +10,7 @@ h1 {
   background: black;
 }
 /*image organization*/
-img[src*="icon.JPG"]{
+img[src*="self-nyc.jpg"]{
   display: block;
   height: 500px;
   width: 350px;
